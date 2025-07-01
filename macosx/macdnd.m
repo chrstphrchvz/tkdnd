@@ -153,7 +153,7 @@ Tcl_Interp * TkDND_Interp(Tk_Window tkwin) {
 #endif
 
 /*
- * After macOS 10.13 (High Sierra), new pasteboard types have beed defined,
+ * After macOS 10.13 (High Sierra), new pasteboard types have been defined,
  * and the old ones have been deprecated (will be available up to macOS 10.14 (Mojave)).
  */
 #if MAC_OS_X_VERSION_MIN_REQUIRED >= MAC_OS_X_VERSION_10_13
